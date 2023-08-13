@@ -1,0 +1,27 @@
+
+.facts {
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.text {
+    padding: 20px;
+}
+nav ul {
+    padding-left: 300px;
+    padding-top: 20px;
+}
+.ahref a{
+    color: white;
+}
+.ahref {
+    height: 50px;
+    background-color: #333333;
+    padding: 20px;
+}
